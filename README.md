@@ -11,6 +11,7 @@ Image Captioning is the process of automatically captioning a unseen image. It u
 <br>
 
 ---
+
 ## Network Topology
 
 <img src = "./images/encoder-decoder.png">
