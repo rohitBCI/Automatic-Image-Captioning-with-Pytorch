@@ -39,7 +39,7 @@ The Microsoft **C**ommon **O**bjects in **CO**ntext (MS COCO) dataset is a large
 
 1. Clone the repository, and navigate to the downloaded folder. This may take a minute or two to clone due to the included image data.
 	```
-	git clone https://github.com/nalbert9/Automatic-Image-Captioning-with-Pytorch.git
+	https://github.com/rohitvk1/Automatic-Image-Captioning-with-Pytorch.git
 	```
 2. Create (and activate) a new Anaconda environment (Python 3.6).
 Download via [Anaconda](https://www.anaconda.com/distribution/)
