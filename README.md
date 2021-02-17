@@ -22,7 +22,7 @@ For the Encoder, I used a Convolutional Neural Network(CNN). The image is given 
 <img src = "./images/encoder.png">
 
 **Decoder:** <br>
- For the Decoder, I used a Recurrent Neural Network (RNN) which takes the features from encoder and produces a sentence for it
+ For the Decoder, I used LSTM(Long short-term memory)units whic take the features from encoder and produces a sentence for it
 
 <img src = "./images/decoder.png">
 
